@@ -34,7 +34,7 @@ RegisterNumber: 21005806
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![gcd of two number](./IMAGES/gcd.png)
 
 
 ## Result:
